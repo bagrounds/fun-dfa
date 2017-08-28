@@ -1,0 +1,2 @@
+funDfa = require('../src')
+
